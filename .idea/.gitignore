@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 # Ignore one file
-test.txt
+/test2.txt
 # Ignore all file using extenstion
 # (Ignore all txt file)
 *.txt
